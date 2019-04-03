@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# French-Argentinean international laboratory [SINFIN](http://www.lia-sinfin.org)
 
-You can use the [editor on GitHub](https://github.com/sinfin-ldpl/sinfin-ldpl.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[SINFIN](http://www.lia-sinfin.org) is a French-Argentinean Laboratory (Laboratoire Internationale Associé) devoted to research in Computer Science. Specific focus is placed on formal methods, for modeling, verification and development of complex software artifacts.
+The institutions involved are:
+- [CNRS](http://www.cnrs.fr/)
+- [IRIF@Université Paris-Diderot](http://www.irif.fr/)
+- [CONICET](http://www.conicet.gov.ar/web/conicet/inicio)
+- [ICC@Universidad de Buenos Aires](https://icc.fcen.uba.ar/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Logics and Dynamics of Programming Languages Team
 
-### Markdown
+Research interests of our group are semantics of programming languages and proof theory. We investigate themes in rewriting, lambda calculus, type systems, etc.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Members
+### In France
 
-```markdown
-Syntax highlighted code block
+- [Thibaut Balabonski](https://www.lri.fr/~blsk) (Permanent)
+- [Antonio Bucciarelli](https://www.irif.fr/~buccia/) (Permanent)
+- [Delia Kesner](https://www.irif.fr/~kesner/) (Permanent)
 
-# Header 1
-## Header 2
-### Header 3
+### In Argentina
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sinfin-ldpl/sinfin-ldpl.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Eduardo Bonelli](https://sites.google.com/site/eabonelli/) (Permanent)
+- [Alejandro Díaz-Caro](https://www-2.dc.uba.ar/staff/adiazcaro/) (Permanent)
+- [Carlos Lombardi](https://www-2.dc.uba.ar/grupinv/lorel/) (Permanent)
+- [Alejandro Ríos](https://www-2.dc.uba.ar/grupinv/lorel/) (Permanent)

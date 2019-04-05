@@ -15,7 +15,7 @@ Research interests of our group are semantics of programming languages and proof
 ## Members
 ### In France
 
-- [Thibaut Balabonski](https://www.lri.fr/~blsk) (Permanent)
+- [Thibaut Balabonski](https://www.lri.fr/~blsk) (Permanent, local lead)
 - [Antonio Bucciarelli](https://www.irif.fr/~buccia/) (Permanent)
 - [Delia Kesner](https://www.irif.fr/~kesner/) (Permanent)
 - [Antoine Lanco](https://vals.lri.fr) (PhD student)
@@ -31,7 +31,7 @@ Research interests of our group are semantics of programming languages and proof
 - [Carlos Lombardi](https://www-2.dc.uba.ar/grupinv/lorel/) (Permanent)
 - [Alejandro Ríos](https://www-2.dc.uba.ar/grupinv/lorel/) (Permanent)
 - [Andrés Viso](https://www-2.dc.uba.ar/grupinv/lorel/) (PhD student)
-- [Beta Ziliani](https://people.mpi-sws.org/~beta/) (Permanent)
+- [Beta Ziliani](https://people.mpi-sws.org/~beta/) (Permanent, local lead)
 
 ### Associated members
 

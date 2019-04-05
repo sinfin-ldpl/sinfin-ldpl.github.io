@@ -23,6 +23,7 @@ Research interests of our group are semantics of programming languages and proof
 - [Antoine Lanco](https://vals.lri.fr) (PhD student)
 - [Robin Pelle](https://vals.lri.fr) (PhD student)
 - [Yann Régis-Gianas](http://yann.regis-gianas.org) (Permanent)
+- [Benoît Valiron](http://www.monoidal.net) (Permanent)
 - [Pierre Vial](https://www.irif.fr/~pvial/) (Post-Doc)
 
 ### In Argentina

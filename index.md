@@ -4,6 +4,7 @@
 The institutions involved are:
 - [CNRS](http://www.cnrs.fr/)
 - [IRIF@Université Paris-Diderot](http://www.irif.fr/)
+- [LRI@Université Paris-Sud](http://www.lri.fr/)
 - [CONICET](http://www.conicet.gov.ar/web/conicet/inicio)
 - [ICC@Universidad de Buenos Aires](https://icc.fcen.uba.ar/)
 - [FAMAF@Universidad de Córdoba](https://famaf.unc.edu.ar)

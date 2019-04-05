@@ -17,6 +17,7 @@ Research interests of our group are semantics of programming languages and proof
 - [Thibaut Balabonski](https://www.lri.fr/~blsk) (Permanent)
 - [Antonio Bucciarelli](https://www.irif.fr/~buccia/) (Permanent)
 - [Delia Kesner](https://www.irif.fr/~kesner/) (Permanent)
+- [Yann Régis-Gianas](http://yann.regis-gianas.org) (Permanent)
 
 ### In Argentina
 

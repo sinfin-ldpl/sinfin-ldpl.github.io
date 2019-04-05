@@ -27,7 +27,6 @@ Research interests of our group are semantics of programming languages and proof
 ### In Argentina
 
 - [Pablo Barenbaum](https://foones.github.io) (PhD student)
-- [Eduardo Bonelli](https://sites.google.com/site/eabonelli/) (Permanent)
 - [Alejandro Díaz-Caro](https://www-2.dc.uba.ar/staff/adiazcaro/) (Permanent)
 - [Carlos Lombardi](https://www-2.dc.uba.ar/grupinv/lorel/) (Permanent)
 - [Alejandro Ríos](https://www-2.dc.uba.ar/grupinv/lorel/) (Permanent)
@@ -38,6 +37,7 @@ Research interests of our group are semantics of programming languages and proof
 
 - [Beniamino Accattoli](https://sites.google.com/site/beniaminoaccattoli/) (France)
 - [Mauricio Ayala Rincón](http://www.mat.unb.br/ayala/) (Brazil)
+- [Eduardo Bonelli](https://www.cs.stevens.edu/~ebonelli/) (US)
 - [Flávio L. C. de Moura](http://www.cic.unb.br/~flavio/) (Brazil)
 - [Damiano Mazza](http://www-lipn.univ-paris13.fr/~mazza/) (France)
 - [Daniel Ventura](http://www.mat.unb.br/~ventura/) (Brazil)

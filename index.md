@@ -6,7 +6,7 @@ The institutions involved are:
 - [IRIF@Université Paris-Diderot](http://www.irif.fr/)
 - [CONICET](http://www.conicet.gov.ar/web/conicet/inicio)
 - [ICC@Universidad de Buenos Aires](https://icc.fcen.uba.ar/)
-- [FAMAF@Universidad de Córdoba](https://famaf.unc.edu.ar)
+- [FAMAF@Universidad de Córdoba](https://www.famaf.unc.edu.ar)
 
 # Logics and Dynamics of Programming Languages Team
 

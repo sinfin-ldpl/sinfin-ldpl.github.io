@@ -32,6 +32,7 @@ Research interests of our group are semantics of programming languages and proof
 - [Alejandro Díaz-Caro](https://www-2.dc.uba.ar/staff/adiazcaro/) (Permanent)
 - [Carlos Lombardi](https://www-2.dc.uba.ar/grupinv/lorel/) (Permanent)
 - [Alejandro Ríos](https://www-2.dc.uba.ar/grupinv/lorel/) (Permanent)
+- [Mallku Soldevila]() (PhD student)
 - [Andrés Viso](https://www-2.dc.uba.ar/grupinv/lorel/) (PhD student)
 - [Beta Ziliani](https://people.mpi-sws.org/~beta/) (Permanent, local lead)
 

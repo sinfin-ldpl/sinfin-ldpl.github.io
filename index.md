@@ -18,7 +18,7 @@ Research interests of our group are semantics of programming languages and proof
 
 - [Thibaut Balabonski](https://www.lri.fr/~blsk) (Permanent, local lead)
 - [Antonio Bucciarelli](https://www.irif.fr/~buccia/) (Permanent)
-- [Xavier Denir](https://www.irif.fr/) (PhD student)
+- [Xavier Denir](https://www.irif.fr/) (MSc student)
 - [Delia Kesner](https://www.irif.fr/~kesner/) (Permanent)
 - [Antoine Lanco](https://vals.lri.fr) (PhD student)
 - [Robin Pelle](https://vals.lri.fr) (PhD student)

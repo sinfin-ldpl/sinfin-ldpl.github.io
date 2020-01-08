@@ -41,9 +41,11 @@ Research interests of our group are semantics of programming languages and proof
 ### Associated members
 
 - [Beniamino Accattoli](https://sites.google.com/site/beniaminoaccattoli/) (France)
+- Pablo Arrighi (France)
 - [Mauricio Ayala Rincón](http://www.mat.unb.br/ayala/) (Brazil)
 - [Eduardo Bonelli](https://www.cs.stevens.edu/~ebonelli/) (US)
 - [Flávio L. C. de Moura](http://www.cic.unb.br/~flavio/) (Brazil)
+- Iván Marquez (France)
 - [Damiano Mazza](http://www-lipn.univ-paris13.fr/~mazza/) (France)
 - [Daniel Ventura](http://www.mat.unb.br/~ventura/) (Brazil)
 

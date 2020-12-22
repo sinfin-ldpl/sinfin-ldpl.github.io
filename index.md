@@ -17,8 +17,9 @@ Research interests of our group are semantics of programming languages and proof
 ### In France
 
 - [Thibaut Balabonski](https://www.lri.fr/~blsk) (Permanent, local lead)
+- [Agustín Borgna](https://github.com/ABorgna) (PhD student)
 - [Antonio Bucciarelli](https://www.irif.fr/~buccia/) (Permanent)
-- [Xavier Denis](https://www.irif.fr/) (MSc student)
+- [Xavier Denis](http://xav.io/) (PhD student)
 - [Gilles Dowek](http://www.lsv.fr/~dowek/) (Permanent)
 - [Delia Kesner](https://www.irif.fr/~kesner/) (Permanent)
 - [Antoine Lanco](https://vals.lri.fr) (PhD student)
@@ -32,9 +33,12 @@ Research interests of our group are semantics of programming languages and proof
 
 - [Pablo Barenbaum](https://foones.github.io) (PhD student)
 - [Alejandro Díaz-Caro](https://www-2.dc.uba.ar/staff/adiazcaro/) (Permanent)
+- [Malena Ivnisky](http://mivnisky.github.io/) (PhD student)
 - [Carlos Lombardi](https://www-2.dc.uba.ar/grupinv/lorel/) (Permanent)
 - [Alejandro Ríos](https://www-2.dc.uba.ar/grupinv/lorel/) (Permanent)
+- Rafael Romero (PhD student)
 - [Mallku Soldevila]() (PhD student)
+- [Cristian Sottile](https://cfsottile.github.io/) (PhD student)
 - [Andrés Viso](https://www-2.dc.uba.ar/grupinv/lorel/) (PhD student)
 - [Beta Ziliani](https://people.mpi-sws.org/~beta/) (Permanent, local lead)
 

@@ -39,7 +39,7 @@ Research interests of our group are semantics of programming languages and proof
 - Rafael Romero (PhD student)
 - [Mallku Soldevila]() (PhD student)
 - [Cristian Sottile](https://cfsottile.github.io/) (PhD student)
-- [Andrés Viso](https://www-2.dc.uba.ar/grupinv/lorel/) (PhD student)
+- [Andrés Viso](https://firuzz.github.io/) (Postdoc)
 - [Beta Ziliani](https://people.mpi-sws.org/~beta/) (Permanent, local lead)
 
 ### Associated members

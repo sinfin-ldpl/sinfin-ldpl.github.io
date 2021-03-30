@@ -8,6 +8,7 @@ The institutions involved are:
 - [CONICET](http://www.conicet.gov.ar/web/conicet/inicio)
 - [ICC@Universidad de Buenos Aires](https://icc.fcen.uba.ar/)
 - [FAMAF@Universidad de Córdoba](https://www.famaf.unc.edu.ar)
+- [Universidad Nacional de Quilmes](http://www.unq.edu.ar)
 
 # Logics and Dynamics of Programming Languages Team
 
@@ -31,16 +32,16 @@ Research interests of our group are semantics of programming languages and proof
 
 ### In Argentina
 
-- [Pablo Barenbaum](https://foones.github.io) (PhD student)
-- [Alejandro Díaz-Caro](https://www-2.dc.uba.ar/staff/adiazcaro/) (Permanent)
+- [Pablo Barenbaum](https://foones.github.io) (Post-Doc)
+- [Alejandro Díaz-Caro](https://staff.dc.uba.ar/adiazcaro/) (Permanent, local lead)
 - [Malena Ivnisky](http://mivnisky.github.io/) (PhD student)
 - [Carlos Lombardi](https://www-2.dc.uba.ar/grupinv/lorel/) (Permanent)
 - [Alejandro Ríos](https://www-2.dc.uba.ar/grupinv/lorel/) (Permanent)
-- Rafael Romero (PhD student)
-- [Mallku Soldevila]() (PhD student)
+- [Rafael Romero](https://leafarromero.github.io/) (PhD student)
+- Mallku Soldevila (PhD student)
 - [Cristian Sottile](https://cfsottile.github.io/) (PhD student)
 - [Andrés Viso](https://firuzz.github.io/) (Postdoc)
-- [Beta Ziliani](https://people.mpi-sws.org/~beta/) (Permanent, local lead)
+- [Beta Ziliani](https://people.mpi-sws.org/~beta/) (Permanent)
 
 ### Associated members
 

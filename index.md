@@ -17,9 +17,9 @@ Research interests of our group are semantics of programming languages and proof
 ## Members
 ### In France
 
-- [Thibaut Balabonski](https://www.lri.fr/~blsk) (Permanent, local lead)
+- [Thibaut Balabonski](https://www.lri.fr/~blsk) (Permanent)
 - [Agustín Borgna](https://github.com/ABorgna) (PhD student)
-- [Antonio Bucciarelli](https://www.irif.fr/~buccia/) (Permanent)
+- [Antonio Bucciarelli](https://www.irif.fr/~buccia/) (Permanent, local lead)
 - [Xavier Denis](http://xav.io/) (PhD student)
 - [Gilles Dowek](http://www.lsv.fr/~dowek/) (Permanent)
 - [Delia Kesner](https://www.irif.fr/~kesner/) (Permanent)

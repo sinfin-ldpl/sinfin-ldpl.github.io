@@ -32,7 +32,7 @@ Research interests of our group are semantics of programming languages and proof
 
 ### In Argentina
 
-- [Pablo Barenbaum](https://foones.github.io) (Post-Doc)
+- [Pablo Barenbaum](https://foones.github.io) (Permanent)
 - [Alejandro Díaz-Caro](https://staff.dc.uba.ar/adiazcaro/) (Permanent, local lead)
 - [Malena Ivnisky](http://mivnisky.github.io/) (PhD student)
 - [Carlos Lombardi](https://www-2.dc.uba.ar/grupinv/lorel/) (Permanent)

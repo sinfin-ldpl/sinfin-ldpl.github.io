@@ -4,7 +4,7 @@
 The institutions involved are:
 - [CNRS](http://www.cnrs.fr/)
 - [IRIF@Université Paris-Diderot](http://www.irif.fr/)
-- [LRI@Université Paris-Sud](http://www.lri.fr/)
+- [LMF@Université Paris Saclay](https://lmf.cnrs.fr/)
 - [CONICET](http://www.conicet.gov.ar/web/conicet/inicio)
 - [ICC@Universidad de Buenos Aires](https://icc.fcen.uba.ar/)
 - [FAMAF@Universidad de Córdoba](https://www.famaf.unc.edu.ar)
@@ -45,3 +45,12 @@ Research interests of our group are semantics of programming languages and proof
 - [Flávio L. C. de Moura](http://www.cic.unb.br/~flavio/) (Brazil)
 - [Damiano Mazza](http://www-lipn.univ-paris13.fr/~mazza/) (France)
 - [Daniel Ventura](http://www.mat.unb.br/~ventura/) (Brazil)
+<<<<<<< HEAD
+=======
+- [Andrés Viso](https://firuzz.github.io/) (France)
+
+### Past members
+
+- [Fabien Renaud](http://www.lix.polytechnique.fr/~renaud/) (France)
+- [Gabriela Steren](https://www-2.dc.uba.ar/grupinv/lorel/) (Argentina)
+>>>>>>> 70ef76967cb683c39e4995af0a369ec17ccb5ba0

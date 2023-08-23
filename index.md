@@ -17,28 +17,23 @@ Research interests of our group are semantics of programming languages and proof
 ## Members
 ### In France
 
-- [Thibaut Balabonski](https://www.lri.fr/~blsk) (Permanent)
-- [Agustín Borgna](https://github.com/ABorgna) (PhD student)
+- [Beniamino Accattoli](https://sites.google.com/site/beniaminoaccattoli/) (France)
 - [Antonio Bucciarelli](https://www.irif.fr/~buccia/) (Permanent, local lead)
-- [Xavier Denis](http://xav.io/) (PhD student)
 - [Gilles Dowek](http://www.lsv.fr/~dowek/) (Permanent)
 - [Delia Kesner](https://www.irif.fr/~kesner/) (Permanent)
 - [Antoine Lanco](https://vals.lri.fr) (PhD student)
+- [Mariana Milicich](https://www.irif.fr/users/milicich/index) (PhD student)
 - [Simon Perdrix](https://members.loria.fr/SPerdrix/) (Permanent)
-- [Robin Pelle](https://vals.lri.fr) (PhD student)
-- [Yann Régis-Gianas](http://yann.regis-gianas.org) (Permanent)
 - [Benoît Valiron](http://www.monoidal.net) (Permanent)
-- [Pierre Vial](https://www.irif.fr/~pvial/) (Post-Doc)
 
 ### In Argentina
 
 - [Pablo Barenbaum](https://foones.github.io) (Permanent)
 - [Alejandro Díaz-Caro](https://staff.dc.uba.ar/adiazcaro/) (Permanent, local lead)
 - [Malena Ivnisky](http://mivnisky.github.io/) (PhD student)
-- [Carlos Lombardi](https://www-2.dc.uba.ar/grupinv/lorel/) (Permanent)
 - [Alejandro Ríos](https://www-2.dc.uba.ar/grupinv/lorel/) (Permanent)
 - [Rafael Romero](https://leafarromero.github.io/) (PhD student)
-- Mallku Soldevila (PhD student)
+- [Mallku Soldevila](https://mallku2.github.io/about/) (Posdoc)
 - [Cristian Sottile](https://cfsottile.github.io/) (PhD student)
 - [Beta Ziliani](https://people.mpi-sws.org/~beta/) (Permanent)
 
@@ -52,8 +47,3 @@ Research interests of our group are semantics of programming languages and proof
 - [Damiano Mazza](http://www-lipn.univ-paris13.fr/~mazza/) (France)
 - [Daniel Ventura](http://www.mat.unb.br/~ventura/) (Brazil)
 - [Andrés Viso](https://firuzz.github.io/) (France)
-
-### Past members
-
-- [Fabien Renaud](http://www.lix.polytechnique.fr/~renaud/) (France)
-- [Gabriela Steren](https://www-2.dc.uba.ar/grupinv/lorel/) (Argentina)

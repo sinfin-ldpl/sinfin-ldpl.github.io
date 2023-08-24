@@ -33,7 +33,7 @@ Research interests of our group are semantics of programming languages and proof
 - [Malena Ivnisky](http://mivnisky.github.io/) (PhD student)
 - [Alejandro Ríos](https://www-2.dc.uba.ar/grupinv/lorel/) (Permanent)
 - [Rafael Romero](https://leafarromero.github.io/) (PhD student)
-- [Mallku Soldevila](https://mallku2.github.io/about/) (Posdoc)
+- [Mallku Soldevila](https://mallku2.github.io/about/) (Postdoc)
 - [Cristian Sottile](https://cfsottile.github.io/) (PhD student)
 - [Beta Ziliani](https://people.mpi-sws.org/~beta/) (Permanent)
 

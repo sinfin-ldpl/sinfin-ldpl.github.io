@@ -45,12 +45,6 @@ Research interests of our group are semantics of programming languages and proof
 - [Flávio L. C. de Moura](http://www.cic.unb.br/~flavio/) (Brazil)
 - [Damiano Mazza](http://www-lipn.univ-paris13.fr/~mazza/) (France)
 - [Daniel Ventura](http://www.mat.unb.br/~ventura/) (Brazil)
-<<<<<<< HEAD
-=======
 - [Andrés Viso](https://firuzz.github.io/) (France)
 
-### Past members
-
-- [Fabien Renaud](http://www.lix.polytechnique.fr/~renaud/) (France)
-- [Gabriela Steren](https://www-2.dc.uba.ar/grupinv/lorel/) (Argentina)
->>>>>>> 70ef76967cb683c39e4995af0a369ec17ccb5ba0
+=======

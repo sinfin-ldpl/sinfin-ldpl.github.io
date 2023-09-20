@@ -47,4 +47,3 @@ Research interests of our group are semantics of programming languages and proof
 - [Daniel Ventura](http://www.mat.unb.br/~ventura/) (Brazil)
 - [Andrés Viso](https://firuzz.github.io/) (France)
 
-=======

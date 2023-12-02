@@ -1,6 +1,6 @@
-# French-Argentinean international laboratory [SINFIN](http://www.lia-sinfin.org)
+# French-Argentinean IRP [SINFIN](http://irp-sinfin.org)
 
-[SINFIN](http://www.lia-sinfin.org) is a French-Argentinean Laboratory (Laboratoire Internationale Associé) devoted to research in Computer Science. Specific focus is placed on formal methods, for modeling, verification and development of complex software artifacts.
+[SINFIN](http://irp-sinfin.org) is a French-Argentinean IRP (International Research Project) devoted to research in Computer Science. Specific focus is placed on formal methods, for modeling, verification and development of complex software artifacts.
 The institutions involved are:
 - [CNRS](http://www.cnrs.fr/)
 - [IRIF@Université Paris-Diderot](http://www.irif.fr/)

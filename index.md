@@ -17,7 +17,7 @@ Research interests of our group are semantics of programming languages and proof
 ## Members
 ### In France
 
-- [Beniamino Accattoli](https://sites.google.com/site/beniaminoaccattoli/) (France)
+- [Beniamino Accattoli](https://sites.google.com/site/beniaminoaccattoli/) (Permanent)
 - [Antonio Bucciarelli](https://www.irif.fr/~buccia/) (Permanent, local lead)
 - [Gilles Dowek](http://www.lsv.fr/~dowek/) (Permanent)
 - [Delia Kesner](https://www.irif.fr/~kesner/) (Permanent)

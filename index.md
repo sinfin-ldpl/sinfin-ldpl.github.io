@@ -19,6 +19,7 @@ Research interests of our group are semantics of programming languages and proof
 
 - [Beniamino Accattoli](https://sites.google.com/site/beniaminoaccattoli/) (Permanent)
 - [Antonio Bucciarelli](https://www.irif.fr/~buccia/) (Permanent, local lead)
+- [Alejandro Díaz-Caro](https://staff.dc.uba.ar/adiazcaro/) (Non permanent)
 - [Gilles Dowek](http://www.lsv.fr/~dowek/) (Permanent)
 - [Delia Kesner](https://www.irif.fr/~kesner/) (Permanent)
 - [Antoine Lanco](https://vals.lri.fr) (PhD student)
@@ -28,14 +29,12 @@ Research interests of our group are semantics of programming languages and proof
 
 ### In Argentina
 
-- [Pablo Barenbaum](https://foones.github.io) (Permanent)
-- [Alejandro Díaz-Caro](https://staff.dc.uba.ar/adiazcaro/) (Permanent, local lead)
+- [Pablo Barenbaum](https://foones.github.io) (Permanent, local lead)
 - [Malena Ivnisky](http://mivnisky.github.io/) (PhD student)
 - [Alejandro Ríos](https://www-2.dc.uba.ar/grupinv/lorel/) (Permanent)
 - [Rafael Romero](https://leafarromero.github.io/) (PhD student)
 - [Mallku Soldevila](https://mallku2.github.io/about/) (Posdoc)
 - [Cristian Sottile](https://cfsottile.github.io/) (PhD student)
-- [Beta Ziliani](https://people.mpi-sws.org/~beta/) (Permanent)
 
 ### Associated members
 
@@ -46,4 +45,5 @@ Research interests of our group are semantics of programming languages and proof
 - [Damiano Mazza](http://www-lipn.univ-paris13.fr/~mazza/) (France)
 - [Daniel Ventura](http://www.mat.unb.br/~ventura/) (Brazil)
 - [Andrés Viso](https://firuzz.github.io/) (France)
+- [Beta Ziliani](https://people.mpi-sws.org/~beta/) (Uruguay)
 

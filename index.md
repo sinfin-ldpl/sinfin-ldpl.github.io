@@ -18,8 +18,8 @@ Research interests of our group are semantics of programming languages and proof
 ### In France
 
 - [Beniamino Accattoli](https://sites.google.com/site/beniaminoaccattoli/) (Permanent)
-- [Antonio Bucciarelli](https://www.irif.fr/~buccia/) (Permanent, local lead)
-- [Alejandro Díaz-Caro](https://staff.dc.uba.ar/adiazcaro/) (Non permanent)
+- [Antonio Bucciarelli](https://www.irif.fr/~buccia/) (Permanent)
+- [Alejandro Díaz-Caro](https://staff.dc.uba.ar/adiazcaro/) (Non permanent, local lead)
 - [Gilles Dowek](http://www.lsv.fr/~dowek/) (Permanent)
 - [Delia Kesner](https://www.irif.fr/~kesner/) (Permanent)
 - [Antoine Lanco](https://vals.lri.fr) (PhD student)
